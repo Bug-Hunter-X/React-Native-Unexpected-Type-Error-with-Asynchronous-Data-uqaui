@@ -1,0 +1,1 @@
+This error occurs when using a library that expects a specific type of data, but you're providing it with a different type. This often happens when dealing with asynchronous operations, where the data might not be fully loaded when the library tries to use it. For instance, if you're using a library that expects a string but you provide it with an object or undefined.
